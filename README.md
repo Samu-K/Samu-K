@@ -9,8 +9,7 @@ Mainly interested in computer vision and software engineering.
 
 **Current projects:**
 
-I just finished my first real object detection project. You can take a look at in over at Samu-K/office_control
-I'm also working on my first c++ project (Samu-K/budget_app)
+Currently working on my budgeting app.
 
 **Where I can be reached?**
 
