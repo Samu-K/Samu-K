@@ -5,11 +5,11 @@ My main hobbies aside from programming are boxing, working out, playing music an
 
 **My interests:**
 
-Mainly interested in computer vision and software engineering.
+Mainly interested in embedded systems, especially in the defense sector.
 
 **Current projects:**
 
-Currently working on my budgeting app.
+Currently working on some embedded STM32 systems and baremetal raspi.
 
 **Where I can be reached?**
 
