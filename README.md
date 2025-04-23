@@ -5,11 +5,11 @@ My main hobbies aside from programming are boxing, working out, playing music an
 
 **My interests:**
 
-Mainly interested in embedded systems, especially in the defense sector.
+Mainly interested in embedded systems.
 
 **Current projects:**
 
-Currently working on some embedded STM32 systems and baremetal raspi.
+Currently working on a mechanical arm embedded systems project + my bachelors.
 
 **Where I can be reached?**
 
