@@ -9,7 +9,7 @@ Mainly interested in embedded systems.
 
 **Current projects:**
 
-Currently working on a mechanical arm embedded systems project + my bachelors.
+[Pomodo](https://github.com/Samu-K/pomodo)
 
 **Where I can be reached?**
 
